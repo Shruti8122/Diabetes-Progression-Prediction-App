@@ -8,7 +8,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://diabetes-progression-prediction-app.vercel.app/"
+        "https://diabetes-progression-prediction-app.vercel.app"
         ],
     allow_credentials=True,
     allow_methods=["*"],
