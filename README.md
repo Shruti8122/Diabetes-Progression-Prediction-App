@@ -4,7 +4,7 @@ A full-stack Machine Learning web application that predicts diabetes progression
 
 ## Live Demo
 
-🔗 Live Application: 
+🔗 Live Application: https://diabetes-progression-prediction-app.vercel.app
 
 ## Features
 
